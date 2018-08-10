@@ -1,0 +1,90 @@
+body {
+	background-color: black;
+	color:yellow;
+	margin: 0;
+}
+#top {
+	margin-top: 0;
+	margin-bottom: 1%;
+	text-align: center;
+	background-color: purple;
+}
+#top h1 {
+	font-size: 300%;
+}
+h1 {
+	margin-top: 0;
+	padding-top: 3%;
+	padding-bottom: 0;
+}
+#line {
+	width: 100%;
+	background-color: blue;
+	margin-bottom: 0;
+}
+#again {
+	border-radius: 5px;
+	border: 1px solid blue;
+	background-color: white;
+	color:blue;
+	padding: 0.3% 0.6%;
+}
+#nav {
+	color:white;
+	text-align: center;
+	padding-top: 0.05%;
+	padding-bottom: 0.3%;
+	margin-top: 0;
+}
+.squares {
+	width: 30%;
+	float: left;
+	background-color: white;
+	padding-bottom: 30%;
+	margin: 1.66%;
+	border-radius: 10px;
+}
+#container {
+	max-width: 400px;
+	margin: 0 auto;
+}
+.cross {
+	background-image: url("cross.jpg");
+	background-size: cover;
+}
+.circle {
+	background-image: url("circle.jpg");
+	background-size: cover;
+}
+.cwv {
+	background-image: url("cwv.jpg");
+	background-size: cover;
+}
+.cwh {
+	background-image: url("cwh.jpg");
+	background-size: cover;
+}
+.cwdl {
+	background-image: url("cwdl.jpg");
+	background-size: cover;
+}
+.cwdr {
+	background-image: url("cwdr.jpg");
+	background-size: cover;
+}
+.crwv {
+	background-image: url("crwv.jpg");
+	background-size: cover;
+}
+.crwh {
+	background-image: url("crwh.jpg");
+	background-size: cover;
+}
+.crwdl {
+	background-image: url("crwdl.jpg");
+	background-size: cover;
+}
+.crwdr {
+	background-image: url("crwdr.jpg");
+	background-size: cover;
+}
