@@ -17,6 +17,11 @@ h1 {
 	padding-top: 3%;
 	padding-bottom: 0;
 }
+.green {
+	color:green;
+	width:110%;
+}
+
 #line {
 	width: 100%;
 	background-color: blue;
